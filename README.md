@@ -20,6 +20,8 @@ yarn start
 
 Open http://localhost:3000 to see your app.
 
+## Routes
+
 / (for react algolia instantsearch only)
 
 /autocomplete (for react algolia autocomplete only)
